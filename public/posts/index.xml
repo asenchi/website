@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>asenchi.com</title>
-    <link>/</link>
-    <description>Recent content on asenchi.com</description>
+    <title>Posts on asenchi.com</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on asenchi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Curt Micol &lt;asenchi@asenchi.com&gt;</copyright>
-    <lastBuildDate>Thu, 18 Aug 2022 13:26:58 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 13:26:58 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Sustainable Business</title>
       <link>/posts/building-a-business/</link>
@@ -36,33 +36,6 @@ this site and &lt;a href=&#34;https://infrastellar.systems&#34;&gt;Infrastellar 
 this adventure. I am also very interested in &lt;a href=&#34;mailto:asenchi@asenchi.com&#34;&gt;hearing from
 you&lt;/a&gt; about what you think is required for a business
 to succeed in today&amp;rsquo;s environment.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 18 Aug 2022 10:57:10 -0400</pubDate>
-      
-      <guid>/about/</guid>
-      <description>About me I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly interested in Resilience Engineering when applied to complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively large platforms including EngineYard, Heroku, GitHub, Simple (RIP), and VMware Tanzu.
-I am also interested in the intersection of complex systems and humans in the area of incident management. I have developed a system called the Incident Complexity Framework and am working on a book and training course for helping companies apply incident management practices.</description>
-      <content>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly
-interested in &lt;a href=&#34;https://erikhollnagel.com/ideas/resilience-engineering.html&#34;&gt;Resilience Engineering&lt;/a&gt; when applied to
-complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively
-large platforms including &lt;a href=&#34;https://engineyard.com&#34;&gt;EngineYard&lt;/a&gt;, &lt;a href=&#34;https://heroku.com&#34;&gt;Heroku&lt;/a&gt;, &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://simple.com&#34;&gt;Simple&lt;/a&gt;
-(RIP), and &lt;a href=&#34;https://tanzu.vmware.com/&#34;&gt;VMware Tanzu&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I am also interested in the intersection of complex systems and humans in the
-area of incident management. I have developed a system called the Incident
-Complexity Framework and am working on a book and training course for helping
-companies apply incident management practices. I gave a talk about an early
-version of this system at &lt;a href=&#34;https://monitorama.com&#34;&gt;Monitorama&lt;/a&gt; in 2015. You can view that
-&lt;a href=&#34;https://vimeo.com/131385891&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Outside of computers I imagine a world where technology is used to benefit
-people and not consume the world in greed. Unfortunately we are a long way from
-this happening. Ultimately, I think software should compliment human driven
-progress and not overwhelm it.&lt;/p&gt;
 </content>
     </item>
     
