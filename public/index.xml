@@ -13,18 +13,20 @@
       <pubDate>Thu, 18 Aug 2022 10:57:10 -0400</pubDate>
       
       <guid>/about/</guid>
-      <description>About me I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly interested in Resilience Engineering when applied to complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively large platforms including EngineYard, Heroku, GitHub, Simple, and VMware Tanzu.
+      <description>About me I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly interested in Resilience Engineering when applied to complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively large platforms including EngineYard, Heroku, GitHub, Simple (RIP), and VMware Tanzu.
 I am also interested in the intersection of complex systems and humans in the area of incident management. I have developed a system called the Incident Complexity Framework and am working on a book and training course for helping companies apply incident management practices.</description>
       <content>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly
 interested in &lt;a href=&#34;https://erikhollnagel.com/ideas/resilience-engineering.html&#34;&gt;Resilience Engineering&lt;/a&gt; when applied to
 complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively
-large platforms including &lt;a href=&#34;https://engineyard.com&#34;&gt;EngineYard&lt;/a&gt;, &lt;a href=&#34;https://heroku.com&#34;&gt;Heroku&lt;/a&gt;, &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://simple.com&#34;&gt;Simple&lt;/a&gt;, and &lt;a href=&#34;https://tanzu.vmware.com/&#34;&gt;VMware
-Tanzu&lt;/a&gt;.&lt;/p&gt;
+large platforms including &lt;a href=&#34;https://engineyard.com&#34;&gt;EngineYard&lt;/a&gt;, &lt;a href=&#34;https://heroku.com&#34;&gt;Heroku&lt;/a&gt;, &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://simple.com&#34;&gt;Simple&lt;/a&gt;
+(RIP), and &lt;a href=&#34;https://tanzu.vmware.com/&#34;&gt;VMware Tanzu&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am also interested in the intersection of complex systems and humans in the
 area of incident management. I have developed a system called the Incident
 Complexity Framework and am working on a book and training course for helping
-companies apply incident management practices.&lt;/p&gt;
+companies apply incident management practices. I gave a talk about an early
+version of this system at &lt;a href=&#34;https://monitorama.com&#34;&gt;Monitorama&lt;/a&gt; in 2015. You can view that
+&lt;a href=&#34;https://vimeo.com/131385891&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Outside of computers I imagine a world where technology is used to benefit
 people and not consume the world in greed. Unfortunately we are a long way from
 this happening. Ultimately, I think software should compliment human driven
