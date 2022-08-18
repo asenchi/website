@@ -24,7 +24,7 @@ this world and doesn't squander them for meaningless riches for a select few.
 
 Infrastellar Systems aims to be a one-hundred year infrastructure company. What
 that means exactly we're still figuring out, but the company needs to be
-sustainable and responsible to changes in tech, society, and economies. One that
+sustainable and responsive to changes in tech, society, and economies. One that
 doesn't lock people in to ensure we acquire the next buck but build value into
 the people who use our tools so that they can make the decisions that benefit
 their business. Honestly it seems absurdly difficult to build a business given
