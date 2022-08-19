@@ -19,11 +19,21 @@
     </item>
     
     <item>
-      <title>tech industry</title>
-      <link>/tags/tech-industry/</link>
+      <title>infrastellar</title>
+      <link>/tags/infrastellar/</link>
       <pubDate>Thu, 18 Aug 2022 13:26:58 -0400</pubDate>
       
-      <guid>/tags/tech-industry/</guid>
+      <guid>/tags/infrastellar/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Thu, 18 Aug 2022 13:26:58 -0400</pubDate>
+      
+      <guid>/tags/tech/</guid>
       <description></description>
       <content></content>
     </item>
