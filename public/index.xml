@@ -7,7 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Curt Micol &lt;asenchi@asenchi.com&gt;</copyright>
-    <lastBuildDate>Thu, 18 Aug 2022 13:26:58 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 15:58:59 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dealing with Catastrophe</title>
+      <link>/posts/dealing-with-catastrophe/</link>
+      <pubDate>Tue, 23 Aug 2022 15:58:59 -0400</pubDate>
+      
+      <guid>/posts/dealing-with-catastrophe/</guid>
+      <description>6 Catastrophe is always just around the corner.
+Complex systems possess potential for catastrophic failure. Human practitioners are nearly always in close physical and temporal proximity to these potential failures – disaster can occur at any time and in nearly any place. The potential for catastrophic outcome is a hallmark of complex systems. It is impossible to eliminate the potential for such catastrophic failure; the potential for such failure is always present by the system’s own nature.</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;6 Catastrophe is always just around the corner.&lt;/p&gt;
+&lt;p&gt;Complex systems possess potential for catastrophic failure. Human
+practitioners are nearly always in close physical and temporal proximity to
+these potential failures – disaster can occur at any time and in nearly any
+place. The potential for catastrophic outcome is a hallmark of complex
+systems. It is impossible to eliminate the potential for such catastrophic
+failure; the potential for such failure is always present by the system’s own
+nature.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The above quote is taken from Richard I. Cook&amp;rsquo;s seminal treatise, &lt;a href=&#34;https://how.complexsystems.fail&#34;&gt;&amp;ldquo;How Complex
+Systems Fail&amp;rdquo;&lt;/a&gt;. The full paper is a must read for anyone working on
+infrastructure and complex systems. However, this sixth point is of particular
+importance to me because it has become a fundamental approach to every system I
+have worked on since reading Dr. Cook&amp;rsquo;s paper nearly 12 years ago.&lt;/p&gt;
+&lt;p&gt;My experience has shown this statement to be true. No matter how hard teams
+worked to build reliable systems there was always an event that surprised us,
+one that typically meant many people were going to lose many hours of their day
+working to resolve the underlying incident.&lt;/p&gt;
+&lt;p&gt;Approximately eight years ago within a few weeks of joining a new company we
+experienced a catastrophic event that impacted a large portion of our customers
+for greater than 24 hours. The reason this incident stood out to me was that
+our engineering team had been developing this particular change for 18
+months and we had put a considerable amount of work into preparing for
+this day of the event. And yet, it still fell apart.&lt;/p&gt;
+&lt;p&gt;Perhaps the most surprising piece at the time was that our planning didn&amp;rsquo;t
+just fall apart from a technical perspective, but we also saw results of a
+massive communication breakdown that led to the confusion of our coworkers and
+our customers. We had done the work to put together checklists to ensure we
+were all on the same page. We had assigned the Incident Commander role to
+people who understood the work and they did a reasonable job updating situation
+reports. Yet when we finished the internal post-mortem and shared it with our
+coworkers many of them were shocked to find out what had happened. There was an
+obvious problem here, one that we had thought we had prepared for.&lt;/p&gt;
+&lt;p&gt;Thankfully the Director of our operations team at the time understood the
+importance of finding a better way to deal with failure and gave me the space
+to develop a method for our needs. I wasn&amp;rsquo;t new to incident management, having
+worked on it at my two previous employers, but I was deeply curious to find a
+better way than what I had experienced previously.&lt;/p&gt;
+&lt;p&gt;At the time two key areas stuck out to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The burden of response: How does the process of response reduce the stress on
+those actively addressing the incident?&lt;/li&gt;
+&lt;li&gt;Clear and concise communication: How to inform all impacted parties whether
+known or not?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Any system that could solve these two issues would greatly improve our ability
+to address not only catastrophic failures but any incident encountered.&lt;/p&gt;
+&lt;p&gt;The work we are doing at &lt;a href=&#34;https://infrastellar.systems&#34;&gt;Infrastellar Systems&lt;/a&gt; is an extension of that
+initial development of an incident management system that I have continued to
+develop throughout the years. I&amp;rsquo;ve built up a lot of experience integrating my
+system into large engineering organizations. What I&amp;rsquo;ve learned from those
+experiences I hope to put into tooling for teams to improve their experience
+around catastrophic failures and more deeply understand their production
+systems.&lt;/p&gt;
+&lt;p&gt;Ultimately the potential for failure exists in every system we develop as
+engineers. As Dr. Cook says above, it is &amp;ldquo;always present by the system&amp;rsquo;s own
+nature.&amp;rdquo; Incident management is the interface by which engineers engage with
+their systems in real-time. It isn&amp;rsquo;t the only one, but it may just be the most
+important one.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Building a Sustainable Business</title>
       <link>/posts/building-a-business/</link>
@@ -46,10 +117,9 @@ to succeed in today&amp;rsquo;s environment.&lt;/p&gt;
       <pubDate>Thu, 18 Aug 2022 10:57:10 -0400</pubDate>
       
       <guid>/about/</guid>
-      <description>About me I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly interested in Resilience Engineering when applied to complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively large platforms including EngineYard, Heroku, GitHub, Simple (RIP), and VMware Tanzu.
+      <description>I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly interested in Resilience Engineering when applied to complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively large platforms including EngineYard, Heroku, GitHub, Simple (RIP), and VMware Tanzu.
 I am also interested in the intersection of complex systems and humans in the area of incident management. I have developed a system called the Incident Complexity Framework and am working on a book and training course for helping companies apply incident management practices.</description>
-      <content>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly
+      <content>&lt;p&gt;I&amp;rsquo;m an infrastructure engineer. I live near Lansing, MI. I am particularly
 interested in &lt;a href=&#34;https://erikhollnagel.com/ideas/resilience-engineering.html&#34;&gt;Resilience Engineering&lt;/a&gt; when applied to
 complex infrastructure systems. I&amp;rsquo;ve been blessed to work on some relatively
 large platforms including &lt;a href=&#34;https://engineyard.com&#34;&gt;EngineYard&lt;/a&gt;, &lt;a href=&#34;https://heroku.com&#34;&gt;Heroku&lt;/a&gt;, &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://simple.com&#34;&gt;Simple&lt;/a&gt;
