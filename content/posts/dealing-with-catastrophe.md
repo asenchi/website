@@ -30,9 +30,7 @@ one that typically meant many people were going to lose many hours of their day
 working to resolve the underlying incident.
 
 Approximately eight years ago I joined a new company that was in the middle of
-a very large migration. The work had been in progress for 18 months. I came on
-board about one month prior to the planned migration and helped organize a
-timeline and rudimentary incident management process. Even with all of that
+a very large migration. The work had been in progress for 18 months. Even with all of that
 preparation we still experienced a catastrophic event that impacted a large
 portion of our customers for greater than 24 hours.
 
