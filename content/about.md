@@ -4,8 +4,6 @@ date: 2022-08-18T10:57:10-04:00
 draft: false
 ---
 
-# About me
-
 I'm an infrastructure engineer. I live near Lansing, MI. I am particularly
 interested in [Resilience Engineering][] when applied to
 complex infrastructure systems. I've been blessed to work on some relatively
