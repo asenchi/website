@@ -172,7 +172,7 @@ systems. It is impossible to eliminate the potential for such catastrophic
 failure; the potential for such failure is always present by the system’s own
 nature.</p>
 </blockquote>
-<p>The above quote is taken from Richard I. Cook&rsquo;s seminal treatise, <a href="https://how.complexsystems.fail">&ldquo;How Complex
+<p>The above quote is taken from Dr. Richard Cook&rsquo;s seminal treatise, <a href="https://how.complexsystems.fail">&ldquo;How Complex
 Systems Fail&rdquo;</a>. The full paper is a must read for anyone working on
 infrastructure and complex systems. However, this sixth point is of particular
 importance to me because it has become a fundamental approach to every system I
@@ -181,35 +181,40 @@ have worked on since reading Dr. Cook&rsquo;s paper nearly 12 years ago.</p>
 worked to build reliable systems there was always an event that surprised us,
 one that typically meant many people were going to lose many hours of their day
 working to resolve the underlying incident.</p>
-<p>Approximately eight years ago within a few weeks of joining a new company we
-experienced a catastrophic event that impacted a large portion of our customers
-for greater than 24 hours. The reason this incident stood out to me was that
-our engineering team had been developing this particular change for 18
-months and we had put a considerable amount of work into preparing for
-this day of the event. And yet, it still fell apart.</p>
+<p>Approximately eight years ago I joined a new company that was in the middle of
+a very large migration. The work had been in progress for 18 months. I came on
+board about one month prior to the planned migration and helped organize a
+timeline and rudimentary incident management process. Even with all of that
+preparation we still experienced a catastrophic event that impacted a large
+portion of our customers for greater than 24 hours.</p>
 <p>Perhaps the most surprising piece at the time was that our planning didn&rsquo;t just
 fall apart from a technical perspective, but we also saw results of a massive
 communication breakdown that led to the confusion of our coworkers and our
-customers. We had done the work to put together checklists to ensure we were
-all on the same page. We had assigned the Incident Commander role to people who
-understood the work and they did a reasonable job updating situation
-reports. Yet when we finished the internal post-mortem and shared it with our
-coworkers, many of them were shocked to find out what had happened. There was
-an obvious problem here, one that we had thought we had prepared for.</p>
+customers. We had done the work to put together checklists with specific points
+of communication to ensure we were all on the same page. We had assigned the
+Incident Commander role to a rotation of people who understood the work and
+they did a reasonable job updating situation reports. Yet when we finished the
+internal post-mortem and shared it with our coworkers, many of them were
+shocked to find out what had happened. There was an obvious problem here, one
+that we had thought we had prepared for.</p>
 <p>Thankfully, the Director of our operations team at the time understood the
 importance of finding a better way to deal with failure and gave me the space
-to develop a method for our needs. I wasn&rsquo;t new to incident management, having
-worked on it at my two former places of employment, but I was deeply curious to
-find a better way than what I had experienced previously.</p>
-<p>At the time two key areas stuck out to me:</p>
+to develop a method for our needs. I was deeply curious to find a better way
+to engage our systems and support the teams across the company so that whenever
+we faced a failure, whether planned or unplanned, my coworkers had the
+information they needed to continue doing their job.</p>
+<p>At the time three key areas stuck out to me:</p>
 <ul>
-<li>The burden of response: How can the process of response reduce the stress on
-those actively addressing the incident?</li>
+<li>The burden of response: How can the process of incident response reduce the
+stress on those actively addressing the incident?</li>
 <li>Clear and concise communication: How to inform all impacted parties whether
 known or not?</li>
+<li>Non-technical Allies: How can the process of incident response support all
+teams at all levels in the company that may be impacted by the particulars of
+incident?</li>
 </ul>
-<p>Any system that could solve these two issues would greatly improve our ability
-to address not only catastrophic failures but any incident encountered.</p>
+<p>Any system that could solve these three issues would greatly improve our
+ability to address not only catastrophic failures but any incident encountered.</p>
 <p>The work we are doing at <a href="https://infrastellar.systems">Infrastellar Systems</a> is an extension of that
 initial development of an incident management system. It is one that I have
 continued to develop throughout the years. I&rsquo;ve built up a lot of experience
