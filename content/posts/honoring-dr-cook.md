@@ -4,13 +4,13 @@ date = "2022-09-09T14:07:28-04:00"
 author = "asenchi"
 authorTwitter = "asenchi"
 tags = ["incident-management", "complex-systems"]
-keywords = []
+keywords = ["complex-systems"]
 showFullContent = false
 readingTime = true
 draft = false
 +++
 
-Today I learned of the passing of Dr. Richard I. Cook. As I mentioned in my
+Today I [learned of the passing of Dr. Richard I. Cook][passing]. As I mentioned in my
 previous post he is the author of "How Complex Systems Fail" which is, I
 believe, one of the most important documents on complex systems ever
 written. If you run any type of system that is in production or is relied upon
@@ -27,5 +27,6 @@ check out his book [Behind Human Error][error].
 
 My prayers are with his family and friends during this difficult time.
 
+[passing]: https://twitter.com/lund_hfss/status/1568242140546744322
 [talk]: https://www.youtube.com/watch?v=2S0k12uZR14
 [error]: https://www.routledge.com/Behind-Human-Error-2nd-Edition/Woods-Dekker-Cook-Johannesen-Sarter/p/book/9780754678342
