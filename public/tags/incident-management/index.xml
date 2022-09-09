@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Curt Micol &lt;asenchi@asenchi.com&gt;</copyright>
-    <lastBuildDate>Tue, 23 Aug 2022 15:58:59 -0400</lastBuildDate><atom:link href="/tags/incident-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 14:07:28 -0400</lastBuildDate><atom:link href="/tags/incident-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honoring Dr Richard I. Cook</title>
+      <link>/posts/honoring-dr-cook/</link>
+      <pubDate>Fri, 09 Sep 2022 14:07:28 -0400</pubDate>
+      
+      <guid>/posts/honoring-dr-cook/</guid>
+      <description>Today I learned of the passing of Dr. Richard I. Cook. As I mentioned in my previous post he is the author of &amp;ldquo;How Complex Systems Fail&amp;rdquo; which is, I believe, one of the most important documents on complex systems ever written. If you run any type of system that is in production or is relied upon by people in a significant way, this document should be studied and well understood.</description>
+    </item>
+    
     <item>
       <title>Dealing with Catastrophe</title>
       <link>/posts/dealing-with-catastrophe/</link>

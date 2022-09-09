@@ -3,12 +3,11 @@ title = "Honoring Dr Richard I. Cook"
 date = "2022-09-09T14:07:28-04:00"
 author = "asenchi"
 authorTwitter = "asenchi"
-cover = "/images/honoring-dr-cook.png"
 tags = ["incident-management", "complex-systems"]
 keywords = []
 showFullContent = false
 readingTime = true
-draft = true
+draft = false
 +++
 
 Today I learned of the passing of Dr. Richard I. Cook. As I mentioned in my
