@@ -7,7 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Curt Micol &lt;asenchi@asenchi.com&gt;</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 14:07:28 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 10:30:51 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Consulting</title>
+      <link>/posts/consulting/</link>
+      <pubDate>Wed, 05 Oct 2022 10:30:51 -0400</pubDate>
+      
+      <guid>/posts/consulting/</guid>
+      <description>This week I posted on LinkedIn and Twitter that I was looking to work with companies on their infrastructure. I thought I might dive into why I am doing this.
+Starting a Business Starting a business is hard, especially when considering building software. Open source is predominant (rightfully so) and Software as a Service (SaaS) is the trend. I have spent the past couple of months working through a business plan and have some pretty ambitious goals.</description>
+      <content>&lt;p&gt;This week I posted on &lt;a href=&#34;https://www.linkedin.com/posts/curt-micol-852472178_in-addition-to-the-work-i-am-doing-at-infrastellar-activity-6982748228479844353-Pteh?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/asenchi/status/1576983616315445249&#34;&gt;Twitter&lt;/a&gt; that I was looking to work with
+companies on their infrastructure. I thought I might dive into why I am doing
+this.&lt;/p&gt;
+&lt;h2 id=&#34;starting-a-business&#34;&gt;Starting a Business&lt;/h2&gt;
+&lt;p&gt;Starting a business is hard, especially when considering building
+software. Open source is predominant (rightfully so) and Software as a Service
+(SaaS) is the trend. I have spent the past couple of months working through a
+business plan and have some pretty ambitious goals.&lt;/p&gt;
+&lt;p&gt;Having a plan is all well and good, and I started diving in right away. However
+I realized two things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My life outside of work has been incredibly busy and required more attention
+than I was willing to recognize.&lt;/li&gt;
+&lt;li&gt;My experience in the tech industry has been comprised of bleeding edge tech
+startups that represent a small portion of the practices around
+infrastructure and incident management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first point is just a matter of timelines lining up. With a family and
+responsibilities there isn&amp;rsquo;t much I can do here. It is a reality that I have to
+live with that my time right now comes at a higher cost. Everything is fine and
+our family is flourishing, and part of that is because I prioritize that work.&lt;/p&gt;
+&lt;p&gt;I have also found that when working alone it easy to make that excuse. The
+flexibility itself needs to be constrained and while I am working on that it
+means I have to find a practical way forward to be able to sustain my work.&lt;/p&gt;
+&lt;p&gt;The second point was something I have thought about for a while. I have a few
+products that I am working on that would benefit from a more varied perspective
+than the startups I have worked for. It is true I worked at
+&lt;a href=&#34;https://tanzu.vmware.com&#34;&gt;VMware&lt;/a&gt;, which is
+anything but a startup, however, the business unit I was in was very
+similar. We were quite isolated from the rest of the company and had autonomy
+to make the decisions we needed to succeed.&lt;/p&gt;
+&lt;p&gt;There are a lot of companies out there that have production systems that are a
+vastly different shape than some of those I have worked on. I want to build
+products that help them. I also want to understand where the pain is that they
+are experiencing. It would be easy for me to build something I &lt;em&gt;think&lt;/em&gt; is
+right, but it means much more to users to build something that &lt;em&gt;works&lt;/em&gt; for
+them.&lt;/p&gt;
+&lt;p&gt;Given the cross section of these two areas I think it is good time to open up
+my time to others. Not only does this provide me some income while I do this
+research but it also gives me a more clearly defined schedule while I work on
+getting organized.&lt;/p&gt;
+&lt;p&gt;Honestly, I&amp;rsquo;m pretty excited about the prospect. I have learned over the years
+that I only see in part and working with others produces something much more
+fulfilling. I want to help companies develop empathetic incident management
+systems, build and managed infrastructure that doesn&amp;rsquo;t immediately become a
+heaping pile of technical debt, and help companies grow their infrastructure
+while being easy to maintain and adapt to their business needs.&lt;/p&gt;
+&lt;p&gt;I have a proven track record of reliable, pragmatic solutions when it comes to
+infrastructure, incident management, and team building. I think I can help your
+company improve in some of these areas. If you have a problem that you need
+help on, reach out to me at
+&lt;a href=&#34;mailto:asenchi@infrastellar.systems&#34;&gt;asenchi@infrastellar.systems&lt;/a&gt; and let&amp;rsquo;s
+chat.&lt;/p&gt;
+&lt;p&gt;I look forward to working with you.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Honoring Dr Richard I. Cook</title>
       <link>/posts/honoring-dr-cook/</link>

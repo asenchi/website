@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-09-09T14:07:28-04:00</lastmod>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/tags/consulting/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/tags/incident-management/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/tags/infrastructure/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/posts/consulting/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-05T10:30:51-04:00</lastmod>
   </url><url>
     <loc>/tags/complex-systems/</loc>
     <lastmod>2022-09-09T14:07:28-04:00</lastmod>
   </url><url>
     <loc>/posts/honoring-dr-cook/</loc>
-    <lastmod>2022-09-09T14:07:28-04:00</lastmod>
-  </url><url>
-    <loc>/tags/incident-management/</loc>
-    <lastmod>2022-09-09T14:07:28-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-09T14:07:28-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-09-09T14:07:28-04:00</lastmod>
   </url><url>
     <loc>/posts/dealing-with-catastrophe/</loc>

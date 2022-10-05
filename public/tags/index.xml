@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Curt Micol &lt;asenchi@asenchi.com&gt;</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 14:07:28 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 10:30:51 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>complex-systems</title>
-      <link>/tags/complex-systems/</link>
-      <pubDate>Fri, 09 Sep 2022 14:07:28 -0400</pubDate>
+      <title>consulting</title>
+      <link>/tags/consulting/</link>
+      <pubDate>Wed, 05 Oct 2022 10:30:51 -0400</pubDate>
       
-      <guid>/tags/complex-systems/</guid>
+      <guid>/tags/consulting/</guid>
       <description></description>
       <content></content>
     </item>
@@ -21,9 +21,29 @@
     <item>
       <title>incident-management</title>
       <link>/tags/incident-management/</link>
-      <pubDate>Fri, 09 Sep 2022 14:07:28 -0400</pubDate>
+      <pubDate>Wed, 05 Oct 2022 10:30:51 -0400</pubDate>
       
       <guid>/tags/incident-management/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>/tags/infrastructure/</link>
+      <pubDate>Wed, 05 Oct 2022 10:30:51 -0400</pubDate>
+      
+      <guid>/tags/infrastructure/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>complex-systems</title>
+      <link>/tags/complex-systems/</link>
+      <pubDate>Fri, 09 Sep 2022 14:07:28 -0400</pubDate>
+      
+      <guid>/tags/complex-systems/</guid>
       <description></description>
       <content></content>
     </item>
