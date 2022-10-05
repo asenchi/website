@@ -10,9 +10,9 @@ readingTime = true
 draft = false
 +++
 
-This week I posted on [LinkedIn][linkedin] and [Twitter][twitter] that I was looking to work with
-companies on their infrastructure. I thought I might dive into why I am doing
-this.
+This week I posted on [LinkedIn][linkedin] and [Twitter][twitter] that I was
+making myself available to consult with companies on their infrastructure. I
+thought I might dive into why I am doing this.
 
 ## Starting a Business
 
@@ -25,7 +25,7 @@ Having a plan is all well and good, and I started diving in right away. However
 I realized two things:
 
 * My life outside of work has been incredibly busy and required more attention
-  than I was willing to recognize.
+  than I was willing to acknowledge.
 * My experience in the tech industry has been comprised of bleeding edge tech
   startups that represent a small portion of the practices around
   infrastructure and incident management.
