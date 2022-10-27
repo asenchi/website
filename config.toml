@@ -92,3 +92,11 @@ enableRobotsTXT = true
         identifier = "posts"
         name = "Posts"
         url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+      [[languages.en.menu.main]]
+        identifier = "records"
+        name = "Sonus Vitae"
+        url = "sv.asenchi.com"
